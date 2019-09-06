@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Виктор",
+    "sirname": "Билецкий",
+    "email": "victorbiletskiy82@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Илья",
+    "sirname": "Семенов",
+    "email": "illyasemenov@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Иванов",
+    "sirname": "Иван",
+    "email": "ivanovivan@gmail.com"
+  }
+]
