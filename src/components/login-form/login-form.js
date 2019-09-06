@@ -39,7 +39,7 @@ class LoginForm extends Component {
         passwordValid = value.length >= 5;
         fieldValidationErrors.password = passwordValid
           ? ""
-          : "Длина пароля должна не менее чем 5 символов";
+          : "Длина пароля должна быть не менее чем 5 символов";
         break;
       default:
         return false;
